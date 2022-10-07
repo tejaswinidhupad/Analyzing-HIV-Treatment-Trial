@@ -73,4 +73,4 @@ The objective of this project is to :
 ....
 
 [//]: #
-[license]: https://github.com/tejaswinidhupad/LICENSE.md
+[license]: https://github.com/tejaswinidhupad/Analyzing-HIV-Treatment-Trial/blob/main/LICENSE
