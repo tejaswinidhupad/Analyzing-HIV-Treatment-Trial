@@ -45,14 +45,14 @@ SAS Studio
 
 ## Objective 
 The objective of this project is to :
-1. Develop statistical analysis plan (SAP)
-• Think carefully about the different treatment effects
-• Think carefully about the dependence structure in the data and how to capture it
-2. Analyze the data
-• Execute the SAP
-• Evaluate the analysis assumptions
-3. Report the results
-• Include also descriptives [including randomization performance]
+1. Develop statistical analysis plan (SAP) <br>
+• Think carefully about the different treatment effects <br>
+• Think carefully about the dependence structure in the data and how to capture it <br>
+2. Analyze the data <br>
+• Execute the SAP <br>
+• Evaluate the analysis assumptions <br>
+3. Report the results <br>
+• Include also descriptives [including randomization performance] <br>
 4. Report the conclusions 
 
 ## Authors
@@ -73,4 +73,4 @@ The objective of this project is to :
 ....
 
 [//]: #
-[license]: https://github.com/abroniewski/LICENSE.md
+[license]: https://github.com/tejaswinidhupad/LICENSE.md
