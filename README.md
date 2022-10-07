@@ -27,7 +27,7 @@ The project follows the structure below:
 	├── LICENSE.md
 	└── SAS
 	└── src
-		├── all executbale script files
+		├── all executable script files
 	└── folder
 		└── support documentation and project descriptions
 	└── data
